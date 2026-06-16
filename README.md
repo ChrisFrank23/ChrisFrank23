@@ -38,8 +38,6 @@ class CristhoferFrank:
 
 I am an aspiring **IT Support Specialist** currently building practical experience through home lab projects, Active Directory administration, Windows Server environments, networking, and technical troubleshooting.
 
-My goal is to start my career in IT Support, gain real-world experience, and continue growing toward a future role as a **SOC Analyst** in Cybersecurity.
-
 ---
 
 ### 🧰 Core Skills
