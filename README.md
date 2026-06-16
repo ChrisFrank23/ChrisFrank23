@@ -67,80 +67,137 @@ class CristhoferFrank:
 
 ---
 
-### 🚀 About Me
+🚀 About Me
 
-I am an aspiring **IT Support Specialist** currently building practical experience through home lab projects, Active Directory administration, Windows Server environments, networking, and technical troubleshooting.
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+I'm a dedicated IT professional with a background in Data Analytics, currently transitioning into Cybersecurity. I bring a highly analytical mindset to problem-solving, system administration, and technical support.
 
-My goal is to start my career in IT Support, gain real-world experience, and continue growing toward a future role as a **SOC Analyst** in Cybersecurity.
+I'm actively building hands-on experience as an IT Support Specialist — designing Windows Server environments, managing Active Directory infrastructure, and simulating enterprise network operations through comprehensive home lab deployments.
 
----
+My career objective is to leverage my infrastructure knowledge and troubleshooting expertise to grow into a SOC Analyst role. I'm a firm believer in "learning by doing" — continuously challenging myself with practical scenarios to understand how systems operate, how they fail, and how to defend them against modern threats.
 
-### 🧰 Core Skills
+<br clear="right"/>
 
-<details>
-  <summary><b>💻 IT Support & Administration</b> (Clique para expandir)</summary>
-  <br>
-  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/Group_Policy_(GPO)-4D4D4D?style=flat-square">
-  <img src="https://img.shields.io/badge/User_Management-0052CC?style=flat-square">
-  <img src="https://img.shields.io/badge/Technical_Support-FF7D00?style=flat-square">
-</details>
+🧰 Core Skills
 
 <details>
-  <summary><b>🌐 Networking</b> (Clique para expandir)</summary>
-  <br>
-  <img src="https://img.shields.io/badge/TCP/IP-183A61?style=flat-square">
-  <img src="https://img.shields.io/badge/DNS-4B0082?style=flat-square">
-  <img src="https://img.shields.io/badge/DHCP-8B0000?style=flat-square">
-  <img src="https://img.shields.io/badge/VPN-008080?style=flat-square">
-  <img src="https://img.shields.io/badge/Network_Diagnostics-2F4F4F?style=flat-square">
-</details>
+<summary><b>💻 IT Support & Administration</b></summary>
+<br>
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
 
+Active Directory user lifecycle management · Domain Services · GPO enforcement · IAM · Virtualization · Tier 1/2 Support
+
+</details>
 <details>
-  <summary><b>🔐 Cybersecurity</b> (Clique para expandir)</summary>
-  <br>
-  <img src="https://img.shields.io/badge/Security_Fundamentals-E63946?style=flat-square">
-  <img src="https://img.shields.io/badge/SIEM_Concepts-000000?style=flat-square">
-  <img src="https://img.shields.io/badge/Threat_Detection-CC0000?style=flat-square">
-  <img src="https://img.shields.io/badge/TryHackMe-blue?style=flat-square&logo=tryhackme&logoColor=white">
-</details>
+<summary><b>🌐 Networking</b></summary>
+<br>
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
 
+TCP/IP fundamentals · DNS & DHCP configuration · VPN troubleshooting · Network diagnostics & connectivity optimization
+
+</details>
 <details>
-  <summary><b>📊 Data Analytics</b> (Clique para expandir)</summary>
-  <br>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white">
+<summary><b>🔐 Cybersecurity</b></summary>
+<br>
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+
+SIEM concepts · Threat detection · Vulnerability analysis · OSINT · Defensive security practices
+
+</details>
+<details>
+<summary><b>📊 Data Analytics & Tools</b></summary>
+<br>
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+
+SQL querying · Power BI dashboards · Excel · Enterprise ticketing systems
+
+</details>
+<details>
+<summary><b>🧠 Soft Skills</b></summary>
+<br>
+Root Cause Analysis (RCA) · Incident Documentation · Analytical Thinking · Customer-Focused Communication
+
 </details>
 
----
+📂 Home Labs & Projects
 
-### 📂 Home Labs & Projects
+🏢 Enterprise Active Directory Home Lab
 
-| Projeto | Descrição e Cenários | Tecnologias Utilizadas |
-| :--- | :--- | :--- |
-| 🏢 **Active Directory Home Lab** | Ambiente corporativo simulado para gerenciamento de domínio. Focado na administração de usuários e grupos, redefinição de senhas e desbloqueio de contas. | `Windows Server 2022`, `Active Directory`, `DNS`, `GPO`, `VirtualBox` |
-| 🎫 **IT Support Ticket Simulation** | Simulação de fluxo de trabalho de suporte e incidentes reais (Problemas de internet/DNS, falhas de VPN, Outlook, impressoras e bloqueio de contas). Foco em *Troubleshooting* e *Root Cause Analysis*. | `Ticketing System`, `Documentation`, `Network Diagnostics` |
 
----
+Designed, provisioned, and deployed a fully functional simulated corporate network for enterprise identity and access management.
 
-### 📜 Certifications & Learning Paths
 
-* ⏳ **CompTIA Security+** *(In Progress)*
-* 🛡️ **TryHackMe Learning Paths** *(Cybersecurity Fundamentals)*
-* 📊 **Data Analytics Professionals Certificate**
 
----
+AreaActivities🖥️ InfrastructureConfigured Domain Controllers and joined client machines to the domain🔒 Security PolicyImplemented complex GPOs for centralized security enforcement and system configuration👤 Identity ManagementManaged full user lifecycle: account creation, OU structuring, password resets, account unlocking🌐 Network ServicesAdministered DNS and DHCP roles to manage internal traffic and IP assignment
 
-### 📈 GitHub Stats
+Stack: Windows Server 2022 · Active Directory (AD DS) · DNS · DHCP · GPO · VirtualBox
+
+
+🎫 IT Support & Help Desk Ticket Simulation
+
+
+Implemented a structured ticketing workflow to simulate, diagnose, and resolve real-world corporate IT incidents.
+
+
+
+AreaActivities🎧 Help DeskHandled enterprise scenarios: network drops, VPN auth failures, Outlook sync errors🖨️ Hardware/SoftwareDiagnosed mapped network printer failures, app crashes, and incompatibilities🔍 Root Cause AnalysisConducted thorough RCA for each incident — solving root issues, not just symptoms📋 DocumentationMaintained professional incident records for technical escalation and future reference
+
+Stack: Ticketing System Workflow · ITSM Concepts · Network Diagnostics · Windows OS
+
+
+📜 Certifications & Learning
+
+┌─────────────────────────────────────────────────────────────────┐
+│  ⏳  CompTIA Security+ (SY0-701)                  IN PROGRESS   │
+│      Network security · Compliance · IAM · Threat Mitigation    │
+├─────────────────────────────────────────────────────────────────┤
+│  🛡️  TryHackMe – Cybersecurity Fundamentals Path     ACTIVE     │
+│      OWASP Top 10 · Linux/Windows Internals · Offensive/Blue    │
+├─────────────────────────────────────────────────────────────────┤
+│  ✅  Data Analytics Professionals Certificate      COMPLETED     │
+│      SQL architecture · Data manipulation · Analytical reports  │
+└─────────────────────────────────────────────────────────────────┘
+
+
+🗣️ Languages
+
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+
+
+📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChrisFrank23&show_icons=true&theme=tokyonight&bg_color=1a1b27&hide_border=true&title_color=7aa2f7" height="160" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisFrank23&layout=compact&theme=tokyonight&bg_color=1a1b27&hide_border=true&title_color=7aa2f7" height="160" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ChrisFrank23&show_icons=true&theme=tokyonight&bg_color=1a1b27&hide_border=true&title_color=7aa2f7&icon_color=7aa2f7" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisFrank23&layout=compact&theme=tokyonight&bg_color=1a1b27&hide_border=true&title_color=7aa2f7" height="160"/>
 </div>
-<br>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChrisFrank23&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</div>
 
+<div align="center">
+  <i>💬 "The quieter you become, the more you can hear."</i>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=ChrisFrank23&color=7aa2f7&style=flat-square&label=Profile+Views"/>
+</div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%"/>
 </div>
