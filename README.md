@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
+  
+  # IT Infrastructure & Cybersecurity Analyst 🚀
+  
+  [![TryHackMe](https://img.shields.io/badge/TryHackMe-Cybersecurity%20101-blue?style=flat-square&logo=tryhackme)](https://tryhackme.com)
+  [![Docker](https://img.shields.io/badge/Docker-Infrastructure-2496ED?style=flat-square&logo=docker)](https://www.docker.com)
+  [![Security](https://img.shields.io/badge/Security-Purple%20Teaming-red?style=flat-square)]()
 
-<!--
-**ChrisFrank23/ChrisFrank23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  [LinkedIn](https://linkedin.com) • [Email](mailto:seu-email@email.com)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### whoami
+
+```json
+{
+  "name": "Seu Nome Completo",
+  "focus": ["Infrastructure", "Help Desk", "Cybersecurity", "Data Science"],
+  "skills": ["Containerization", "Troubleshooting", "Threat Simulation"],
+  "motto": "Build it, break it, fix it, and document everything."
+}
