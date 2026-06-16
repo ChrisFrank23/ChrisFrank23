@@ -1,23 +1,32 @@
 <div align="center">
-  
-  # IT Infrastructure & Cybersecurity Analyst 🚀
-  
-  [![TryHackMe](https://img.shields.io/badge/TryHackMe-Cybersecurity%20101-blue?style=flat-square&logo=tryhackme)](https://tryhackme.com)
-  [![Docker](https://img.shields.io/badge/Docker-Infrastructure-2496ED?style=flat-square&logo=docker)](https://www.docker.com)
-  [![Security](https://img.shields.io/badge/Security-Purple%20Teaming-red?style=flat-square)]()
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi,%20I'm%20Cristhofer%20Frank!&fontSize=50&animation=fadeIn" width="100%"/>
 
-  [LinkedIn](https://linkedin.com) • [Email](mailto:seu-email@email.com)
-
+  <h2>🇧🇷 Brazilian living in Austria 🇦🇹</h2>
+  <p><em>Building hands-on experience through home labs, Active Directory administration, troubleshooting, and cybersecurity projects.</em></p>
+  
+  <a href="[https://linkedin.com/in/cristhoferfrank]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://SEU_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:playerboot23@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
----
+<br>
 
-### whoami
+### 👨‍💻 whoami.py
 
-```json
-{
-  "name": "Seu Nome Completo",
-  "focus": ["Infrastructure", "Help Desk", "Cybersecurity", "Data Science"],
-  "skills": ["Containerization", "Troubleshooting", "Threat Simulation"],
-  "motto": "Build it, break it, fix it, and document everything."
-}
+```python
+class CristhoferFrank:
+    def __init__(self):
+        self.name = "Cristhofer Frank"
+        self.location = "Feldkirch, Vorarlberg, Austria 🇦🇹"
+        self.origin = "Brazil 🇧🇷"
+        self.roles = ["Aspiring IT Support Specialist", "Future SOC Analyst"]
+        self.background = "Data Analytics"
+        self.currently_studying = "CompTIA Security+"
+
+    def current_focus(self):
+        return [
+            "Building IT Infrastructure Labs 🧪",
+            "Working with Active Directory 🖥️",
+            "Learning Networking & Windows Administration 🌐",
+            "Preparing for Security+ Certification 🔐"
+        ]
