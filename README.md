@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi,%20I'm%20Cristhofer%20Frank!&fontSize=50&animation=fadeIn" width="100%"/>
 
-  <h2>🇧🇷 Brazilian living in Austria 🇦🇹</h2>
+  <h2>🇧🇷 Brazilian living the life</h2>
   <p><em>Building hands-on experience through home labs, Active Directory administration, troubleshooting, and cybersecurity projects.</em></p>
 
   <a href="https://linkedin.com/in/cristhoferfrank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
