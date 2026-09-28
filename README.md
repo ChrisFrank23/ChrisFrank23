@@ -17,7 +17,7 @@
 class CristhoferFrank:
     def __init__(self):
         self.name = "Cristhofer Frank"
-        self.location = "Feldkirch, Vorarlberg, Austria 🇦🇹"
+        self.location = "Joaçaba, Santa Catarina, Brazil ʙʀ"
         self.origin = "Brazil 🇧🇷"
         self.roles = ["Aspiring IT Support Specialist", "Future SOC Analyst"]
         self.background = "Data Analytics"
